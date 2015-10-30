@@ -1,9 +1,37 @@
 body {
-  font-family: 'helvetica neue', arial, sans-serif;
+  font-family: 'Calibri', arial, sans-serif;
   font-weight: 300;
-  background: url(linedpaper.png) repeat;
+  background: url(screen2.jpg) repeat;
+  cursor:crosshair;
 }
+
+img{
+	width: 300px;
+}
+
 #wrapper {
   width: 960px;
   margin: 20px auto;
+  color:black;
+  font-size: 48;
 }
+
+/*inserting a comment */
+
+h1, h3 {
+	color: #purple;
+}
+
+#summary{
+	color: purple;
+}
+
+.interests{
+	color:purple;
+}
+
+.heading{
+	font-style: italic;
+	font-weight: ;
+}
+
